@@ -1,0 +1,1 @@
+Source: https://github.com/DietrichGebert/ponytail (commit 96608e0, MIT). Installed 2026-11-06: core skill only, no hooks.
